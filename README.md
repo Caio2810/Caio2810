@@ -1,6 +1,6 @@
 ## Olá, meu nome é Caio! 👋
 
-Estou em processo de aprendizado para me tornar um desenvolvedor full stack, com foco em Java, Python, JavaScript e React. Meu perfil no GitHub ainda está em fase de organização, pois estou trabalhando para postar meus projetos de forma mais organizada.
+Sou um desenvolvedor full stack, com foco em Java, Python, JavaScript e React. Meu perfil no GitHub ainda está em fase de organização, pois estou trabalhando para postar meus projetos de forma mais organizada.
 
 Além disso, tenho grande interesse em análise de dados e estatísticas esportivas, utilizando Python para desenvolver projetos nessa área.
 
