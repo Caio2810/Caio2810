@@ -13,6 +13,7 @@ In addition, I have a strong interest in data analysis and sports statistics, us
     <img align="center" alt="Caio-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Caio-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="Caio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
     
 </div>
 
