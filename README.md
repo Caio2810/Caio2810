@@ -1,8 +1,8 @@
 ## Olá, meu nome é Caio! 👋
 
-Sou um desenvolvedor full stack, com foco em Java, Python, JavaScript e React. Meu perfil no GitHub ainda está em fase de organização, pois estou trabalhando para postar meus projetos de forma mais organizada.
+I’m a full stack developer, currently working with mobile development.
 
-Além disso, tenho grande interesse em análise de dados e estatísticas esportivas, utilizando Python para desenvolver projetos nessa área.
+In addition, I have a strong interest in data analysis and sports statistics, using Python to build projects in this field.
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
