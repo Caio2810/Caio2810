@@ -1,4 +1,4 @@
-## Olá, meu nome é Caio! 👋
+## Hi, my name is Caio! 👋
 
 I’m a full stack developer, currently working with mobile development.
 
