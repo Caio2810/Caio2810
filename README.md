@@ -2,7 +2,7 @@
 
 I’m a full stack developer, currently working with mobile development.
 
-In addition, I have a strong interest in data analysis and sports statistics, using Python to build projects in this field.
+In addition, I have a strong interest in data analysis and sports statistics!
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
